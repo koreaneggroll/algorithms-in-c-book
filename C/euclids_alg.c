@@ -13,7 +13,7 @@ int gcd(int u, int v){
     while(u > 0){
 
         if(u < v){
-
+            //uses a temporary variable so we don't end up with the same values in the 'u' variable
             t = u;
             u = v;
             v = t;
