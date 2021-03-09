@@ -14,3 +14,4 @@ However, C does provide basic operations that make it easy to use linked lists.
     The primary advantage of linked lists over arrays is that linked lists can grow and shrink in size during their lifetime.
 In particular, their maximum size need not be known in advance. In practical applications, this often makes it possible to have
 several data structures share the same space, without paying particular attention to their relative size at any time.
+    Theres a photo of a linked list in the same folder.
