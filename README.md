@@ -1,3 +1,4 @@
 # algorithms-in-c-book
 
-INSTRUCTIONS COMING SOON
+* 1. Start off with: Introduction/algorithms/algorithms.md
+* 2. Move on to the C folder.
