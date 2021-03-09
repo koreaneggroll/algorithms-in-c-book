@@ -6,4 +6,5 @@ languages are similar, so by using relatively few languages constructs and avoid
 we develop programs that are easily translated into other languages. Our goal is to present the algorithms in as simple and direct form as possible; C allows us to do this.
 
 
-    The book actually covers a little bit of C concepts, I won't sadly. This requires at least a basic understanding of C.
+    The book actually covers a little bit of C concepts, I won't that much. This requires at least a really basic understanding of C.
+If you don't, check the pdf for the "C programming language second edition" book in the books folder.
